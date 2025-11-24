@@ -17,7 +17,7 @@ A global airlines has collected the data from customer survey to analyze their s
 - Discretise
 - Binarise
 
-# Assignment 3: Data Preprocessing and Stellar Classification
+# Assignment 3: Data Preprocessing and Classification
 A practical data analytics project that follows on from the data exploration in Assignment 2. Here, you will make a correct prediction on the dataset after employing a sophisticated process of exploring the problem very thoroughly, preprocessing the data, looking at different methods, choosing their best parameter settings, and identifying the best classifier in a principled and explainable way.
 
 1. Data Preprocessing and Transformations:
