@@ -32,6 +32,7 @@ A practical data analytics project that follows on from the data exploration in 
 2. Cross-validation on Base Classifiers for Initial Testing:
 To establish baseline performance, seven classification models were first trained using their default parameters: Logistic Regression, Decision Tree, Random Forest, XGBoost, LightGBM, CatBoost, AdaBoost.
 <img width="752" height="367" alt="image" src="https://github.com/user-attachments/assets/fa95c02b-94a8-40f5-8a20-793f20d9c8b0" />
+
 Each model was evaluated using Cross-Validation to ensure balanced class representation across folds. Stratified k-fold cross-validation (5 folds) was used in this case to ensure each fold maintains the 57%–43% class ratio of the target variable.
 
 4. Hyperparameter Tuning of Potential Classifiers
